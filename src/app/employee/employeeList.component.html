@@ -1,0 +1,36 @@
+﻿<br />
+<table>
+    <tr>
+        <th>
+            Code
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+           Gender
+        </th>
+
+    </tr>
+    <tr *ngFor ="let employee of employees; trackBy:trackByEmpCode">
+        <td>
+            <a [routerLink]="['/employees',employee.ID]">
+            {{employee.ID}}
+            </a>
+        </td>
+        <td>{{employee.EmpName}}</td>
+        <td>{{employee.Gender}}</td>
+    </tr> 
+    <tr *ngIf="!employees">
+        <td colspan="3">{{statusMsg}}</td>
+    </tr>
+    <tr *ngIf="employees && employees.length==0">
+        <td colspan="3">No records to display</td>
+    </tr>
+</table>
+
+
+
+
+
+
