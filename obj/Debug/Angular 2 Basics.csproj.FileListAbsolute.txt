@@ -1,0 +1,32 @@
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\ApplicationInsights.config
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\csc.exe
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\vbc.exe
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\VBCSCompiler.exe
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Angular 2 Basics.dll.config
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Angular 2 Basics.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Angular 2 Basics.pdb
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.Web.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.ApplicationInsights.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.Web.xml
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.ApplicationInsights.xml
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\obj\Debug\Angular 2 Basics.dll
+c:\users\rupali.tidke\documents\visual studio 2015\Projects\Angular 2 Basics\Angular 2 Basics\obj\Debug\Angular 2 Basics.pdb
